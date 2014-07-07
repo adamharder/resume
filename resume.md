@@ -1,7 +1,27 @@
-#Adam Harder
+<table>
+
+
+<tr><td>
+<h1>Adam Harder</h1>
 ###This document available: http://goo.gl/jCeU6
 ###Contact me via my LinkedIn page: http://www.linkedin.com/in/adamharder
 
+
+</td><td>
+
+
+<img src="http://chart.apis.google.com/chart?chs=100x100&cht=qr&chld=|1&chl=http%3A%2F%2Fgoo.gl%2F5WIKJx" />
+
+</td></tr>
+</table>
+
+<!--
+<img src="http://chart.apis.google.com/chart?chs=200x200&cht=qr&chld=|1&chl=https%3A%2F%2Fgithub.com%2Fadamharder%2Fresume%2Fblob%2Fmaster%2Fresume.md" />
+
+
+![xx](http://chart.apis.google.com/chart?chs=200x200&cht=qr&chld=|1&chl=https%3A%2F%2Fgithub.com%2Fadamharder%2Fresume%2Fblob%2Fmaster%2Fresume.md)
+
+-->
 ##Education
 ****Auburn University - **** Master of Software Engineering, August 2005
 

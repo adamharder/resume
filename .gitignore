@@ -1,0 +1,5 @@
+# LaTeX build artifacts (resume.pdf is the output we keep)
+resume.aux
+resume.log
+resume.out
+*.synctex.gz

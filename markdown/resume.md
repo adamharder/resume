@@ -1,6 +1,6 @@
 # Adam Harder
 * Contact me via my LinkedIn page: http://www.linkedin.com/in/adamharder
-
+* The latest version of this document is available at: https://github.com/adamharder/resume/blob/master/resume.pdf
 ## Summary
 Senior software engineer and technical lead with 20+ years across embedded systems, cellular/mobile security, and vulnerability research. Leads 5–6 person research teams end-to-end: technical direction, sprint planning, direct technical contributions, and customer-facing delivery. Deep hands-on background in full-stack development (Python, Postgres, JavaScript/TypeScript), reverse engineering (ARM, C/C++, CAN bus).
 
@@ -16,7 +16,9 @@ Senior software engineer and technical lead with 20+ years across embedded syste
 
 ### Independent Contractor
 2016 - 2019
-* **Raytheon Intelligence Information Services** — Developed a software build system and mirroring infrastructure for an air-gapped network.
+* **Raytheon Intelligence Information Services** 
+  * Developed a software build system and mirroring infrastructure for an air-gapped network.
+
 * **Facilities Survey** — Lead developer for the CMS View and Space Manager hospital facilities management product suite (JavaScript, TypeScript, Python backend on Microsoft Azure). Multiyear effort spanning multiple disciplines.
   * https://www.fsiservices.com/cms-view
   * https://www.fsiservices.com/cms-space-manager
